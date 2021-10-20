@@ -1,7 +1,11 @@
+# IDS_A2_InternetUsers
+An interactive application that enables the exploration of a dataset (here, internet users)
+
+
 # assignment-2-lisamalani
 assignment-2-lisamalani created by GitHub Classroom
 
-WebApp Link: https://share.streamlit.io/lisamalani/ids_a2_internetusers/main/internet_use.py
+App Link: https://share.streamlit.io/lisamalani/ids_a2_internetusers/main/internet_use.py
 
 Goals of the project:
 To understand the current and predict the future increase in the internet users across the globe. The idea is to be able to create visual tools to analyse the internet usage growth per country while simultaneously be able to draw comparison between different countries.
@@ -49,4 +53,3 @@ Development process:
 4.	Explored and used libraries such as folium ( choropleth maps), pydeck and geopandas to understand how to plot polygons on a world map; plotly for line graph and its animation.
 5.	Used Python and Streamlit libraries to plot the data to a local hosted website emphasizing users ability to engage with the information using interaction techniques such as year slides, tooltips, animation , multiselect, panning etc. 
 6.	Integrated ML regression models through sklearn library to predict the increase of internet usage.
-
