@@ -12,7 +12,7 @@ Main respository: https://github.com/lisamalani/IDS_A2_InternetUsers
 To understand the current and predict the future increase in the internet users across the globe. The idea is to be able to create visual tools to analyse the internet usage growth per country while simultaneously be able to draw comparison between different countries.
 Questions: How many internet users are there in the world? How many more are coming?
 
-**Datasets used (procured from Kaggle, verified from ourworldindata.org): **
+**Datasets used (procured from Kaggle, verified from ourworldindata.org):**
 1.	Share of Individuals using the internet
 2.	Broadband penetration by country
 3.	Mobile cellular subscriptions per 100 people
