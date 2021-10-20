@@ -10,10 +10,11 @@ Main respository: https://github.com/lisamalani/IDS_A2_InternetUsers
 
 **Goals of the project:**
 To understand the current and predict the future increase in the internet users across the globe. The idea is to be able to create visual tools to analyse the internet usage growth per country while simultaneously be able to draw comparison between different countries.
+Questions: How many internet users are there in the world? How many more are coming?
 
 **Datasets used (procured from Kaggle, verified from ourworldindata.org): **
 1.	Share of Individuals using the internet
-2.	2. Broadband penetration by country
+2.	Broadband penetration by country
 3.	Mobile cellular subscriptions per 100 people
 4.	Number of internet users by country
 
@@ -29,8 +30,8 @@ Focus the internet usage growth for top 3 countries and a list of top 10.
 
 A comparison table that lets user add countries they want to compare and draw their relevant charts.
 1.	**Geo-plotting** – Allows us to plot out information on a global scale and see how a certain variable is distributed across a territory. This visually appealing plot style holds the ability to process a lot of information at one glance.  The 3D feature of geo-plotting allows us visually rank the data entities (here, country)
-2.	** Line Graph **– Fundamental chart type to track changes over a period of time. Line graphs are better for use when the changes are smaller with markers , which help to make a visual understanding of the difference between two values and easily draw inference in their change. Line graphs are also useful when the need is to plot multiple entities over the same period for comparison. 
- - Clear data for reading and comparison
+2.	** Line Graph **– Fundamental chart type to track changes over a period of time. Line graphs are better for use when the changes are smaller with markers , which help to make a visual understanding of the difference between two values and easily draw inference in their change. Line graphs are also useful when the need is to plot multiple entities over the same period for comparison. Alternative option - bar graph but chose line graph for the above mentioned reasons.
+- Clear data for reading and comparison
 - Ease to understand
 - Fun to animate
 
