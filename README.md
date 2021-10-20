@@ -31,7 +31,7 @@ Focus the internet usage growth for top 3 countries and a list of top 10.
 A comparison table that lets user add countries they want to compare and draw their relevant charts.
 1.	**Geo-plotting** – Allows us to plot out information on a global scale and see how a certain variable is distributed across a territory. This visually appealing plot style holds the ability to process a lot of information at one glance.  The 3D feature of geo-plotting allows us visually rank the data entities (here, country). Alternatives tried- choropleth maps but wasn't able to add 3D dynamism and found pydeck library to be more interactive.
 
-2.	** Line Graph **– Fundamental chart type to track changes over a period of time. Line graphs are better for use when the changes are smaller with markers , which help to make a visual understanding of the difference between two values and easily draw inference in their change. Line graphs are also useful when the need is to plot multiple entities over the same period for comparison. Alternative option - bar graph but chose line graph for the above mentioned reasons.
+2.	**Line Graph**– Fundamental chart type to track changes over a period of time. Line graphs are better for use when the changes are smaller with markers , which help to make a visual understanding of the difference between two values and easily draw inference in their change. Line graphs are also useful when the need is to plot multiple entities over the same period for comparison. Alternative option - bar graph but chose line graph for the above mentioned reasons.
 - Clear data for reading and comparison
 - Ease to understand
 - Fun to animate
