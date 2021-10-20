@@ -1,6 +1,8 @@
 # assignment-2-lisamalani
 assignment-2-lisamalani created by GitHub Classroom
 
+WebApp Link: https://share.streamlit.io/lisamalani/ids_a2_internetusers/main/internet_use.py
+
 Goals of the project:
 To understand the current and predict the future increase in the internet users across the globe. The idea is to be able to create visual tools to analyse the internet usage growth per country while simultaneously be able to draw comparison between different countries.
 
